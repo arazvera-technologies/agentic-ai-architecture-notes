@@ -5,6 +5,7 @@
 This repository collects practical, vendor-neutral engineering design notes for multi-agent AI systems. The focus is on responsibility boundaries, testability, reliability and deliberate human control.
 
 ## Contents
+- [Runnable, tested specialist-agent router (offline demo)](docs/runnable-demo.md)
 - [Reference architecture](docs/reference-architecture.md)
 - [Evaluation checklist](docs/evaluation-checklist.md)
 
