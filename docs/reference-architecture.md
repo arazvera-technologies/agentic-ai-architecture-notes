@@ -14,7 +14,7 @@ The patterns below are general engineering examples, not a description or public
 
 ## Minimal task lifecycle
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     A[Validated request] --> B[Capability router]
     B --> C[Specialist agent]
@@ -27,7 +27,7 @@ flowchart TD
     H -->|Approved| I
     H -->|Denied| J[Safe refusal or revision]
     I --> E
-\`\`\`
+```
 
 ## Reliability considerations
 - Use bounded queues, backpressure and hard execution deadlines.
