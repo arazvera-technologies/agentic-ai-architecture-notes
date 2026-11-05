@@ -3,7 +3,7 @@
 **ARAZVERA TECHNOLOGIES**
 *Public engineering proposal — not a completed security assessment.*
 
-The last publicly listed Python quality gate run for this repository completed successfully on **27 October 2026**, for commit `f84beb31eb744966311856e6c9afee4515e9b4d4`. This narrow CI observation is not proof of production readiness or security certification.
+A publicly listed Python quality gate run for this repository completed successfully on **27 October 2026**, for commit `f84beb31eb744966311856e6c9afee4515e9b4d4`. This narrow CI observation is not proof of production readiness or security certification.
 
 ## Proposed checks before merging or releasing
 
